@@ -24,16 +24,19 @@ A modern and fully responsive SaaS landing page built using React, Vite, and Tai
 ## 📸 Screenshots
 
 ### Hero Section
-![Hero](./screenshots/hero.png)
+![Hero](./screenshots/Hero.png)
 
 ### Features Section
-![Features](./screenshots/features.png)
+![Features](./screenshots/Feature.png)
+
+### Pricing Section
+![Features](./screenshots/Pricing.png)
 
 ### FAQ Section
-![FAQ](./screenshots/faq.png)
+![FAQ](./screenshots/Faq.png)
 
 ### Download Section
-![Download](./screenshots/download.png)
+![Download](./screenshots/Download.png)
 
 ## 📦 Installation
 
