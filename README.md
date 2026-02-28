@@ -3,7 +3,7 @@
 A modern and fully responsive SaaS landing page built using React, Vite, and Tailwind CSS.
 
 ## 🚀 Live Preview
-
+https://xoralanding.netlify.app/
 
 ## 🛠 Tech Stack
 
